@@ -89,7 +89,8 @@ NIST defines three *service models* which describe the different foundational ca
 * *Platform as a Service (PaaS)* abstracts and provides development or application platforms, such as databases, application platforms (e.g. a place to run Python, PHP, or other code), file storage and collaboration, or even proprietary application processing (such as machine learning, big data processing, or direct API access to features of a full SaaS application). The key differentiator is that, with PaaS, you don't manage the underlying servers, networks, or other infrastructure.
 * *Infrastructure as a Service (IaaS)* offers access to a resource pool of fundamental computing infrastructure, such as compute, network, or storage. 
 
-We sometimes call this the "SPI" tiers. 
+We sometimes call this the "SPI" tiers.  
+
 
 ISO/IEC uses a slightly more complex definition with a *cloud capabilities type* that maps closely to the SPI tiers (application, infrastructure, and platform capability types). It then expands into *cloud service categories* that are more-granular, such as Compute as a Service, Data Storage as a Service, and then even includes IaaS/PaaS/SaaS. 
 
